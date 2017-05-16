@@ -16,7 +16,7 @@ class TimezonesServiceProvider extends ServiceProvider
         $this->loadViewsFrom(__DIR__.'/views', 'timezones');
 
         $this->publishes([
-            __DIR__.'/views' => base_path('resources/views/laraveldaily/timezones')
+            __DIR__.'/views' => base_path('resources/views/softhem/timezones')
         ]);
     }
 
