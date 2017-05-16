@@ -3,7 +3,6 @@
     "description": "Laravel 5.4 demo package to show time",
     "type": "Package",
     "require": {
-        "laravel/laravel": ">=5.4"
     },
     "license": "MIT",
     "authors": [
